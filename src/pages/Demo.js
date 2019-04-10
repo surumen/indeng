@@ -49,15 +49,15 @@ class Demo extends Component {
 	                	</a>
 	               	</li>
 	                <li className="_1Gobno2P">
-	                	<a href="/games/fifa" data-messenger="FIFA" target="_blank" rel="noopener noreferrer">FIFA
+	                	<a href="/games/league_of_legends" data-messenger="FIFA" target="_blank" rel="noopener noreferrer">League of Legends
 	                	</a>
 	                </li>
 	                <li className="_18jkgd0-">
-	                	<a href="/games/league_of_legends" data-messenger="league_of_legends" target="_blank" rel="noopener noreferrer">League of Legends
+	                	<a href="/games/fifa" data-messenger="league_of_legends" target="_blank" rel="noopener noreferrer">FIFA
 	                	</a>
 	                </li>
 	                <li className="_2j7oAD62">
-	                	<a href="/games/mortal_combat" data-messenger="mortal_combat" target="_blank" rel="noopener noreferrer">Mortal Combat
+	                	<a href="/games/mortal_combat" data-messenger="mortal_combat" target="_blank" rel="noopener noreferrer">Other
 	                	</a>
 	                </li>
 	                <li className="_3hn_bJcA">
