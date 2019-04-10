@@ -12,32 +12,32 @@ class Demo extends Component {
 	    </div>
 	    <div className="_38MtcaH-">
 	    	<a href="" target="_blank" rel="noopener noreferrer" className="_2NiRptTZ">
-	    		<img src="https://mssg.me/static/website/img/logo.svg" alt="mssg.me logo" />
+	    		<img src="logo" alt="grade2play logo" />
 	    	</a>
 	    	<a href="/register" target="_blank" rel="noopener noreferrer" className="_1FV7R-ay _3izNtEeL _2jkiZdBH _17TLDXQ2" data-element="button">
 	    		<span className="JcC8FCE5">
-	    			<span>Create a page</span>
+	    			<span>Create an account</span>
 	    		</span>
 	    	</a>
 	    </div>
 	    <div className="_2bmbivm7">
 	      <div>
 	        <div className="_3uMPaoD9">
-	          <h2 className="_15TzEpM5 _26ZN8PN3">Easy way to "Hey" 👋</h2>
+	          <h2 className="_15TzEpM5 _26ZN8PN3">Easy way to Reward your Kids</h2>
 	          <p className="_15TzEpM5 _26ZN8PN3">
-	          	1️⃣ Create website in 60 seconds <br/>
-	            2️⃣ Share your link in social networks<br/>
-	            3️⃣ Get more sales</p>
+	          	1️⃣ Create an account in 60 seconds <br/>
+	            2️⃣ Select school rewards<br/>
+	            3️⃣ Pay for game rewards</p>
 	        </div>
 	      </div>
 	      <div className="_1O18hI9-">
 	        <div>
 	          <div className="jSlzAA2K _3wwAFyBZ _1G0gh0ff">
 	            <div className="_3lWWAyQ_">
-	              <div className="_3DLdgy15"><img src="https://mssg.me/upload/images/eewk72rju2lu160.png" alt="mssg.me" /></div>
+	              <div className="_3DLdgy15"><img src="logo.png" alt="grade2play" /></div>
 	              <div className="rVdbawZf">
 	                <div>
-	                  <h1>mssg.me</h1>
+	                  <h1>grade2play</h1>
 	                  <p>Have a question? 👇</p>
 	                </div>
 	              </div>
@@ -45,23 +45,23 @@ class Demo extends Component {
 	            <div className="WV6sm107">
 	              <ul className="_3zhNaZVE" count={5} id="card_messengers">
 	                <li className="_3KgvqEaL">
-	                	<a href="https://mssg.me/r/m/5ca5f52c840794003038e5c0" data-messenger="whatsapp" target="_blank" rel="noopener noreferrer">WhatsApp
+	                	<a href="/games/fortnite" data-messenger="fortnite" target="_blank" rel="noopener noreferrer">Fortnite
 	                	</a>
 	               	</li>
 	                <li className="_1Gobno2P">
-	                	<a href="https://mssg.me/r/m/5ca5f545837e6900ba703c9d" data-messenger="telegram" target="_blank" rel="noopener noreferrer">Telegram
+	                	<a href="/games/fifa" data-messenger="FIFA" target="_blank" rel="noopener noreferrer">FIFA
 	                	</a>
 	                </li>
 	                <li className="_18jkgd0-">
-	                	<a href="https://mssg.me/r/m/5ca5f54d553c21009ab3ad36" data-messenger="viber" target="_blank" rel="noopener noreferrer">Viber
+	                	<a href="/games/league_of_legends" data-messenger="league_of_legends" target="_blank" rel="noopener noreferrer">League of Legends
 	                	</a>
 	                </li>
 	                <li className="_2j7oAD62">
-	                	<a href="https://mssg.me/r/m/5ca5f555107139003f2770cc" data-messenger="vk" target="_blank" rel="noopener noreferrer">Messenger
+	                	<a href="/games/mortal_combat" data-messenger="mortal_combat" target="_blank" rel="noopener noreferrer">Mortal Combat
 	                	</a>
 	                </li>
 	                <li className="_3hn_bJcA">
-	                	<a href="https://mssg.me/r/m/5ca5f55d8b7c4300ab7f6937" data-messenger="messenger" target="_blank" rel="noopener noreferrer">Instagram
+	                	<a href="/games/pokemon_go" data-messenger="pokemon_go" target="_blank" rel="noopener noreferrer">Pokemon Go
 	                	</a>
 	                </li>
 	              </ul>
@@ -70,24 +70,24 @@ class Demo extends Component {
 	        </div>
 	        <div className="_2xSIOsK6 _3yXYtteR _1bfXYuny">
 	          <ul className="_31b-I6k3" id="card_list">
-	            <li><a href="https://mssg.me/r/l/5ca5f58c8b7c4300ab7f69dd" target="_blank" rel="noopener noreferrer" data-id="5ca5f58c8b7c4300ab7f69dd" data-title="Create your mssg.me Page">Create your mssg.me Page</a></li>
+	            <li><a href="/register" target="_blank" rel="noopener noreferrer" data-id="5ca5f58c8b7c4300ab7f69dd" data-title="Create your grade2play Account">Create your grade2play Account</a></li>
 	          </ul>
 	        </div>
 	        <div className="_2Bi6S0M_ _2yHKiG8i v7VefROC">
 	          <ul className="gHfdNBVl">
-	            <li><a className="_3NTORbA2" href="https://mssg.me/demo_eng/p/multi-channel-inbox">
-	                <div className="_1kcK7Cy9"><img src="https://mssg.me/upload/images/eewk74aju2lxgqc.png" alt="Multi-channel Inbox" /></div>
-	                <div className="_2JrB-lNp"><span className="_2JScjGhK">Multi-channel Inbox</span></div>
+	            <li><a className="_3NTORbA2" href="/features/weekly_assignments">
+	                <div className="_1kcK7Cy9"><img src="https://mssg.me/upload/images/eewk74aju2lxgqc.png" alt="Weekly Assignments" /></div>
+	                <div className="_2JrB-lNp"><span className="_2JScjGhK">Weekly Assignments</span></div>
 	              </a></li>
-	            <li><a className="_3NTORbA2" href="https://mssg.me/demo_eng/p/products">
-	                <div className="_1kcK7Cy9"><img src="https://mssg.me/upload/images/eewk73aju2lx69h.png" alt="Products" /></div>
-	                <div className="_2JrB-lNp"><span className="_2JScjGhK">Products</span></div>
+	            <li><a className="_3NTORbA2" href="/features/final_grades">
+	                <div className="_1kcK7Cy9"><img src="https://mssg.me/upload/images/eewk73aju2lx69h.png" alt="Final Grades" /></div>
+	                <div className="_2JrB-lNp"><span className="_2JScjGhK">Final Grades</span></div>
 	              </a></li>
-	            <li><a className="_3NTORbA2" href="https://mssg.me/demo_eng/p/reviews">
-	                <div className="_1kcK7Cy9"><img src="https://mssg.me/upload/images/eewk711ju2lwd5y.png" alt="Reviews" /></div>
-	                <div className="_2JrB-lNp"><span className="_2JScjGhK">Reviews</span></div>
+	            <li><a className="_3NTORbA2" href="/features/extracurricular">
+	                <div className="_1kcK7Cy9"><img src="https://mssg.me/upload/images/eewk711ju2lwd5y.png" alt="Extracurricular" /></div>
+	                <div className="_2JrB-lNp"><span className="_2JScjGhK">Extracurricular</span></div>
 	              </a></li>
-	            <li><a className="_3NTORbA2" href="https://mssg.me/demo_eng/p/analytics">
+	            <li><a className="_3NTORbA2" href="/features/analytics">
 	                <div className="_1kcK7Cy9"><img src="https://mssg.me/upload/images/eewk728ju2luxsz.png" alt="Analytics" /></div>
 	                <div className="_2JrB-lNp"><span className="_2JScjGhK">Analytics</span></div>
 	              </a></li>
