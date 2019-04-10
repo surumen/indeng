@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/indeng/static/media/icons-next-step.c19ee980.svg"
   },
   {
-    "revision": "1b6d3c7423c226212e22",
+    "revision": "88e2b9d3f8fb6298acfe",
     "url": "/indeng/static/css/main.c038a70e.chunk.css"
   },
   {
@@ -32,12 +32,16 @@ self.__precacheManifest = [
     "url": "/indeng/static/media/icon-lines-with-rounds.10202080.svg"
   },
   {
-    "revision": "1b6d3c7423c226212e22",
-    "url": "/indeng/static/js/main.04c7ea5c.chunk.js"
+    "revision": "88e2b9d3f8fb6298acfe",
+    "url": "/indeng/static/js/main.6bd9e898.chunk.js"
   },
   {
     "revision": "5e2de052ef79094586040aca0af9d211",
     "url": "/indeng/static/media/logo.5e2de052.svg"
+  },
+  {
+    "revision": "4f3f63154c9efc54469bf4d069dbe190",
+    "url": "/indeng/static/media/HelveticaNeueCyr-Medium.4f3f6315.woff"
   },
   {
     "revision": "d225f60a782c6bedc86099a35486e2d6",
@@ -46,10 +50,6 @@ self.__precacheManifest = [
   {
     "revision": "91ac3de520d6ab4d26fe598e7c15cb8d",
     "url": "/indeng/static/media/HelveticaNeueCyr-Bold.91ac3de5.woff2"
-  },
-  {
-    "revision": "4f3f63154c9efc54469bf4d069dbe190",
-    "url": "/indeng/static/media/HelveticaNeueCyr-Medium.4f3f6315.woff"
   },
   {
     "revision": "d434bea36150ba564a190e8531d855c6",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/indeng/static/media/HelveticaNeueCyr-Roman.ef7c647a.woff"
   },
   {
-    "revision": "6d593c0d19fa26b9af4ac972858ef182",
+    "revision": "c0edb0b15e3cda1869cc6d8bd14cc502",
     "url": "/indeng/index.html"
   }
 ];
