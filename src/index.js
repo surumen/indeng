@@ -13,6 +13,8 @@ import CompleteAssignments from './features/CompleteAssignments';
 import ExtraCurricular from './features/ExtraCurricular';
 import ImprovedGrades from './features/ImprovedGrades';
 
+import Dashboard from './account/Dashboard';
+
 import './assets/fonts/fonts.css';
 import './assets/styles/style.css';
 import './assets/styles/demo.css';
@@ -29,6 +31,7 @@ ReactDOM.render(
         <Route path="/login" component={Login} />
         <Route path="/register" component={Register} />
         <Route path="/recoverpassword" component={Password} />
+        <Route path="/dashboard" component={Dashboard} />
         <Route path="/features" component={CompleteAssignments} />
         <Route path="/features/analytics" component={Analytics} />
         <Route path="/features/extracurricular" component={ExtraCurricular} />

@@ -14,10 +14,10 @@ class Demo extends Component {
 	      <div className="_1-quif0X" />
 	    </div>
 	    <div className="_38MtcaH-">
-	    	<a href="" target="_blank" rel="noopener noreferrer" className="_2NiRptTZ">
-	    		<img src={logo} alt="grade2play logo" />
+	    	<a href="/" rel="noopener noreferrer" className="_2NiRptTZ">
+	    		<img src={logo} alt="grade2play" />
 	    	</a>
-	    	<a href="/register" target="_blank" rel="noopener noreferrer" className="_1FV7R-ay _3izNtEeL _2jkiZdBH _17TLDXQ2" data-element="button">
+	    	<a href="/register" rel="noopener noreferrer" className="_1FV7R-ay _3izNtEeL _2jkiZdBH _17TLDXQ2" data-element="button">
 	    		<span className="JcC8FCE5">
 	    			<span>Create an account</span>
 	    		</span>
