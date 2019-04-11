@@ -245,7 +245,7 @@ body {
 }
 
 a {
-    color: #007aff;
+    color: #3e9920;
     text-decoration: none;
     font-weight: 500
 }
@@ -506,6 +506,7 @@ p {
 
 ._1-quif0X {
     position: absolute;
+    background: #262626;
     width: 100%;
     height: 100%;
     top: 0;
@@ -653,7 +654,7 @@ p {
     position: absolute;
     height: 4px;
     overflow: hidden;
-    background-color: #007aff;
+    background-color: #3e9920;
     background-clip: padding-box;
     display: block;
     border-radius: 2px;
@@ -727,7 +728,7 @@ p {
 
 ._2jkiZdBH {
     color: #fff;
-    background-color: #007aff
+    background-color: #3e9920
 }
 
 ._2jkiZdBH:hover {
@@ -841,7 +842,7 @@ p {
 }
 
 ._3_PPlWOZ {
-    color: #007aff
+    color: #3e9920
 }
 
 ._3_PPlWOZ:active {
@@ -1730,7 +1731,7 @@ p {
     font-weight: 500;
     font-size: 14px;
     line-height: 32px;
-    color: #007aff;
+    color: #3e9920;
     text-align: center;
     cursor: pointer;
     -webkit-transition: color .3s ease;

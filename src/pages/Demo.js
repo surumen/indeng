@@ -2,17 +2,20 @@ import React, { Component } from 'react';
 
 import '../assets/styles/demo.css';
 
+import logo from "../assets/logo.svg";
+import icon from "../assets/icon.png";
+
 class Demo extends Component {
   render() {
     return (
      <div className="_3SBQN5dI">
 	  <div className="_1i-xzTzY" id="cardRoot">
 	    <div className="_1DNSBNAt _3hoN9LGx _4SJnf5WH" style={{height: '292px'}}>
-	      <div className="_1-quif0X" style={{backgroundImage: 'linear-gradient(135deg, rgb(47, 53, 66) 0%, rgba(47, 53, 66, 0.6) 100%)'}} />
+	      <div className="_1-quif0X" />
 	    </div>
 	    <div className="_38MtcaH-">
 	    	<a href="" target="_blank" rel="noopener noreferrer" className="_2NiRptTZ">
-	    		<img src="logo" alt="grade2play logo" />
+	    		<img src={logo} alt="grade2play logo" />
 	    	</a>
 	    	<a href="/register" target="_blank" rel="noopener noreferrer" className="_1FV7R-ay _3izNtEeL _2jkiZdBH _17TLDXQ2" data-element="button">
 	    		<span className="JcC8FCE5">
@@ -34,7 +37,7 @@ class Demo extends Component {
 	        <div>
 	          <div className="jSlzAA2K _3wwAFyBZ _1G0gh0ff">
 	            <div className="_3lWWAyQ_">
-	              <div className="_3DLdgy15"><img src="logo.png" alt="grade2play" /></div>
+	              <div className="_3DLdgy15"><img src={icon} alt="grade2play" /></div>
 	              <div className="rVdbawZf">
 	                <div>
 	                  <h1>grade2play</h1>

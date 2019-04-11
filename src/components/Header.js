@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import '../assets/styles/style.css';
 
-import logo from "../assets/img/logo.svg";
+import logo from "../assets/logo.svg";
 
 class Header extends Component {
   render() {
