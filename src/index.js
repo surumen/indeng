@@ -4,6 +4,9 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import App from './App';
 import Demo from './pages/Demo';
+import Login from './pages/Login';
+import Register from './pages/Register';
+import Password from './pages/Password';
 
 import Analytics from './features/Analytics';
 import CompleteAssignments from './features/CompleteAssignments';
@@ -13,6 +16,7 @@ import ImprovedGrades from './features/ImprovedGrades';
 import './assets/fonts/fonts.css';
 import './assets/styles/style.css';
 import './assets/styles/demo.css';
+import './assets/styles/account.css';
 
 import * as serviceWorker from './serviceWorker';
 
@@ -22,6 +26,9 @@ ReactDOM.render(
       <div>
         <Route exact path="/" component={App} />
         <Route path="/demo" component={Demo} />
+        <Route path="/login" component={Login} />
+        <Route path="/register" component={Register} />
+        <Route path="/recoverpassword" component={Password} />
         <Route path="/features" component={CompleteAssignments} />
         <Route path="/features/analytics" component={Analytics} />
         <Route path="/features/extracurricular" component={ExtraCurricular} />

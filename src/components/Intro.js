@@ -15,7 +15,7 @@ class Intro extends Component {
                   We help you create grades goals for your children<br />
                   and reward them with game bonuses</p>
                 <div className="section-fp-intro-cta-block">
-                  <a href="/signup" className="button button-large button-fill button-blue">Start for Free</a>
+                  <a href="/register" className="button button-large button-fill button-blue">Start for Free</a>
                   <br />
                   <a href="/demo" className="cta-tutorial">Watch how it works</a>
                 </div>
