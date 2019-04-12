@@ -7,6 +7,8 @@ import Demo from './pages/Demo';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Password from './pages/Password';
+import Pricing from './pages/Pricing';
+import Faqs from './pages/Faqs';
 
 import Analytics from './features/Analytics';
 import CompleteAssignments from './features/CompleteAssignments';
@@ -31,6 +33,8 @@ ReactDOM.render(
         <Route path="/login" component={Login} />
         <Route path="/register" component={Register} />
         <Route path="/recoverpassword" component={Password} />
+        <Route path="/faq" component={Faqs} />
+        <Route path="/pricing" component={Login} />
         <Route path="/dashboard" component={Dashboard} />
         <Route path="/features" component={CompleteAssignments} />
         <Route path="/features/analytics" component={Analytics} />

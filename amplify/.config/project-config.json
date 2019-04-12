@@ -1,0 +1,20 @@
+{
+    "projectName": "grade2play",
+    "projectPath": "/Users/moses/Desktop/Tech Entrepreneurship/grade2play",
+    "defaultEditor": "sublime",
+    "frontendHandler": {
+        "javascript": "/Users/moses/.nvm/versions/node/v8.11.4/lib/node_modules/@aws-amplify/cli/node_modules/amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "build",
+            "BuildCommand": "npm run-script build",
+            "StartCommand": "npm run-script start"
+        }
+    },
+    "providers": {
+        "awscloudformation": "/Users/moses/.nvm/versions/node/v8.11.4/lib/node_modules/@aws-amplify/cli/node_modules/amplify-provider-awscloudformation"
+    }
+}
