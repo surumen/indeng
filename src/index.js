@@ -23,6 +23,7 @@ import './assets/fonts/fonts.css';
 import './assets/styles/style.css';
 import './assets/styles/demo.css';
 import './assets/styles/account.css';
+import './assets/styles/devices.min.css';
 
 import * as serviceWorker from './serviceWorker';
 

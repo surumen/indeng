@@ -1,27 +1,33 @@
 import React, { Component } from 'react';
 
 import '../assets/styles/features.css';
+import '../assets/styles/devices.min.css';
+
+import icon from "../assets/icon.png";
 
 class CompleteAssignments extends Component {
   render() {
     return (
     <div id="root">
 	  <div className="_3jFsfZU2">
+	  <div className="marvel-device ipad silver landscape">
+	  <div className="camera" />
+	  <div className="screen">
 	    <div className="P3J5AhTJ">
 	      <div className="_2CMCgHKK _22XsAoRF">
 	        <div className="_1HJ35fBu">
 	          <div className="dFaULQ1n">
 	            <div className="J_YA6HIV" />
-	            <div className />
-	            <div className />
-	            <div className />
+	            <div />
+	            <div />
+	            <div />
 	          </div>
 	        </div>
 	        <div className="_2esuo9VF">
 	          <div className="_2I6Ucwq3">
-	            <a href="/demo_eng" className="_2lILFZpH">
+	            <a href="/" className="_2lILFZpH">
 	              <div className="_1titt32f">
-	                <img src="logo.png" alt="mssg.me" />
+	                <img src={icon} alt="grade2play" />
 	              </div>
 	              <span>
 	                grade2play
@@ -41,17 +47,17 @@ class CompleteAssignments extends Component {
 	        <div className="RPaDbzsX">
 	          <div className="_1HJ35fBu">
 	            <div className="dFaULQ1n">
-	              <div className />
-	              <div className />
-	              <div className />
+	              <div />
+	              <div />
+	              <div />
 	              <div className="J_YA6HIV" />
 	            </div>
 	          </div>
 	          <div className="_2esuo9VF">
 	            <div className="_2I6Ucwq3">
-	              <a href="/demo_eng" className="_2lILFZpH">
+	              <a href="/" className="_2lILFZpH">
 	                <div className="_1titt32f">
-	                  <img src="logo.png" alt="mssg.me" />
+	                  <img src={icon} alt="grade2play" />
 	                </div>
 	                <span>
 	                  grade2play
@@ -109,6 +115,12 @@ class CompleteAssignments extends Component {
 	        </div>
 	      </div>
 	    </div>
+
+	    </div>
+	    <a href="/">
+		<div className="home" /></a>
+		</div>
+		
 	  </div>
 	</div>
     );
