@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "07b1b725d9975fabed674c60b2ff3056",
-    "url": "/indeng/static/media/icon-arrow.07b1b725.svg"
+    "revision": "10202080199c279bdba40e2b9b632806",
+    "url": "/indeng/static/media/icon-lines-with-rounds.10202080.svg"
   },
   {
-    "revision": "a48c8b2a612ce258de59",
+    "revision": "9933a8eed64977666ce3",
     "url": "/indeng/static/css/main.261d6725.chunk.css"
   },
   {
@@ -36,28 +36,24 @@ self.__precacheManifest = [
     "url": "/indeng/static/media/twitter.c2f1acf6.svg"
   },
   {
-    "revision": "10202080199c279bdba40e2b9b632806",
-    "url": "/indeng/static/media/icon-lines-with-rounds.10202080.svg"
-  },
-  {
-    "revision": "a48c8b2a612ce258de59",
-    "url": "/indeng/static/js/main.5257e40c.chunk.js"
-  },
-  {
-    "revision": "62adfa88f5a6fa52f657a4444fcc4290",
-    "url": "/indeng/static/media/icon-arrow-acquire-manage.62adfa88.svg"
-  },
-  {
     "revision": "c19ee980edead7688a2bec4c8326916f",
     "url": "/indeng/static/media/icons-next-step.c19ee980.svg"
+  },
+  {
+    "revision": "9933a8eed64977666ce3",
+    "url": "/indeng/static/js/main.0a2b4949.chunk.js"
   },
   {
     "revision": "3ad23ed733a5df7604af1eb50e2f0f36",
     "url": "/indeng/static/media/icon-close-coockies.3ad23ed7.svg"
   },
   {
-    "revision": "4f3f63154c9efc54469bf4d069dbe190",
-    "url": "/indeng/static/media/HelveticaNeueCyr-Medium.4f3f6315.woff"
+    "revision": "07b1b725d9975fabed674c60b2ff3056",
+    "url": "/indeng/static/media/icon-arrow.07b1b725.svg"
+  },
+  {
+    "revision": "62adfa88f5a6fa52f657a4444fcc4290",
+    "url": "/indeng/static/media/icon-arrow-acquire-manage.62adfa88.svg"
   },
   {
     "revision": "d225f60a782c6bedc86099a35486e2d6",
@@ -68,19 +64,23 @@ self.__precacheManifest = [
     "url": "/indeng/static/media/HelveticaNeueCyr-Bold.91ac3de5.woff2"
   },
   {
-    "revision": "d434bea36150ba564a190e8531d855c6",
-    "url": "/indeng/static/media/HelveticaNeueCyr-Bold.d434bea3.woff"
-  },
-  {
     "revision": "2239ab07fac581d855b47232109d423f",
     "url": "/indeng/static/media/HelveticaNeueCyr-Roman.2239ab07.woff2"
+  },
+  {
+    "revision": "4f3f63154c9efc54469bf4d069dbe190",
+    "url": "/indeng/static/media/HelveticaNeueCyr-Medium.4f3f6315.woff"
+  },
+  {
+    "revision": "d434bea36150ba564a190e8531d855c6",
+    "url": "/indeng/static/media/HelveticaNeueCyr-Bold.d434bea3.woff"
   },
   {
     "revision": "ef7c647a40367f6f6a34033f6b38a047",
     "url": "/indeng/static/media/HelveticaNeueCyr-Roman.ef7c647a.woff"
   },
   {
-    "revision": "f409428583662136876995067d3c7f39",
+    "revision": "ddf3201173609af356e0ed0075fb1dc6",
     "url": "/indeng/index.html"
   }
 ];
