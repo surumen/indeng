@@ -1,14 +1,14 @@
 {
     "providers": {
         "awscloudformation": {
-            "AuthRoleName": "grade2play-20190411173912-authRole",
-            "UnauthRoleArn": "arn:aws:iam::551962209441:role/grade2play-20190411173912-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::551962209441:role/grade2play-20190411173912-authRole",
-            "Region": "us-west-2",
-            "DeploymentBucketName": "grade2play-20190411173912-deployment",
-            "UnauthRoleName": "grade2play-20190411173912-unauthRole",
-            "StackName": "grade2play-20190411173912",
-            "StackId": "arn:aws:cloudformation:us-west-2:551962209441:stack/grade2play-20190411173912/652e1770-5cbb-11e9-80b3-067d5109b35c"
+            "AuthRoleName": "grade2play-20190411192139-authRole",
+            "UnauthRoleArn": "arn:aws:iam::551962209441:role/grade2play-20190411192139-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::551962209441:role/grade2play-20190411192139-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "grade2play-20190411192139-deployment",
+            "UnauthRoleName": "grade2play-20190411192139-unauthRole",
+            "StackName": "grade2play-20190411192139",
+            "StackId": "arn:aws:cloudformation:us-east-1:551962209441:stack/grade2play-20190411192139/b4ef8a10-5cc9-11e9-a4b3-0efda143af08"
         }
     }
 }

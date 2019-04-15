@@ -18,21 +18,21 @@ class Login extends Component {
 	    this.handleSubmit = this.handleSubmit.bind(this);
 	  }
 
-	  validateForm() {
+	validateForm() {
 	    return this.state.email.length > 0 && this.state.password.length > 0;
-	  }
+	 }
 
-	  handleChange = event => {
+	handleChange = event => {
 	    this.setState({
 	      [event.target.id]: event.target.value
 	    });
-	  }
+	}
 
-	  handleSubmit = event => {
+	handleSubmit = event => {
 	    event.preventDefault();
-	  }
+	}
 
-	  render() {
+	render() {
 	    return (
 	     <div className="_2iASMTzV">
 		    <div className="_3XkLt8Qc"><a href="/" className="_9PcKHMo2">
