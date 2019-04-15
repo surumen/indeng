@@ -785,7 +785,6 @@ p {
 
 ._2esuo9VF {
     position: relative;
-    padding: 16px 0
 }
 
 ._2esuo9VF ._2I6Ucwq3 {
@@ -834,7 +833,7 @@ p {
     align-items: center;
     width: 100%;
     max-width: calc(100% - 24px);
-    padding: 0 16px 0 0
+    padding: 0 16px 0 16px
 }
 
 ._2esuo9VF ._2I6Ucwq3 ._2lILFZpH ._1titt32f {
@@ -852,14 +851,28 @@ p {
     object-fit: cover
 }
 
+.tabs {
+    padding: 16px 0;
+    width: 25%;
+}
+
+.tabs.active {
+    background: #f8f8f8;
+}
+
+._2lILFZpH {
+    text-align: center;
+    margin: auto;
+}
+
 ._2esuo9VF ._2I6Ucwq3 ._2lILFZpH>span {
     display: block;
-    width: calc(100% - 28px);
-    padding: 0 16px 0 8px;
+    width: auto;
+    padding: 0 16px 0 16px;
     white-space: nowrap;
-    overflow: hidden;
-    -o-text-overflow: ellipsis;
-    text-overflow: ellipsis;
+    overflow: -webkit-paged-x;
+    -o-text-overflow: inherit;
+    text-overflow: inherit;
     font-weight: 500;
     font-size: 12px;
     line-height: 14px;

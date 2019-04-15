@@ -25,21 +25,46 @@ class ExtraCurricular extends Component {
 	        </div>
 	        <div className="_2esuo9VF">
 	          <div className="_2I6Ucwq3">
-	            <a href="/" className="_2lILFZpH">
-	              <div className="_1titt32f">
-	                <img src={icon} alt="grade2play" />
-	              </div>
-	              <span>
-	                grade2play
-	              </span>
-	            </a>
-	            <div className="_3tqwf6-A" data-modal-btn="shareproduct">
-	              <svg stroke="currentColor" fill="none" strokeWidth={2} viewBox="0 0 24 24" strokeLinecap="round" strokeLinejoin="round" size={24} color="#000" height={24} width={24} style={{color: 'rgb(0, 0, 0)'}}>
-	                <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
-	                <polyline points="16 6 12 2 8 6" />
-	                <line x1={12} y1={2} x2={12} y2={15} />
-	              </svg>
-	            </div>
+	            <div className="tabs"> 
+		            <a href="/features/weekly_assignments" className="_2lILFZpH">
+		              <div className="_1titt32f">
+		                <img src={icon} alt="grade2play" />
+		              </div>
+		              <span>
+		                Assignments
+		              </span>
+		            </a>
+		        </div>
+		        <div className="tabs">
+		            <a href="/features/final_grades" className="_2lILFZpH">
+		              <div className="_1titt32f">
+		                <img src={icon} alt="grade2play" />
+		              </div>
+		              <span>
+		                Exams
+		              </span>
+		            </a>
+		        </div>
+		        <div className="tabs active">
+		            <a href="/features/extracurricular" className="_2lILFZpH">
+		              <div className="_1titt32f">
+		                <img src={icon} alt="grade2play" />
+		              </div>
+		              <span>
+		                Extracurriculars
+		              </span>
+		            </a>
+		        </div>
+		        <div className="tabs">
+		            <a href="/features/analytics" className="_2lILFZpH">
+		              <div className="_1titt32f">
+		                <img src={icon} alt="grade2play" />
+		              </div>
+		              <span>
+		                Analytics
+		              </span>
+		            </a>
+		        </div>
 	          </div>
 	        </div>
 	      </div>
