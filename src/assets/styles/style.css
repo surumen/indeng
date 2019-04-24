@@ -3181,7 +3181,8 @@ a.plan-card-button-blue:hover {
 
 .page-faq {
     padding: 50px 0;
-    overflow: hidden
+    overflow: hidden;
+    border-top: 1px solid rgba(31, 45, 61, .1);
 }
 
 .page-faq-container,
@@ -3219,10 +3220,10 @@ a.plan-card-button-blue:hover {
 }
 
 .faq-top-controls-list.fixed {
-    position: fixed;
+    position: relative;
     width: 100%;
     max-width: 430px;
-    top: 94px
+    top: 0
 }
 
 .faq-top-controls-list>li {

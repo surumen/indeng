@@ -4,6 +4,7 @@ import ReactPixel from 'react-facebook-pixel';
 import Header from './components/Header';
 import Intro from './components/Intro';
 import Footer from './components/Footer';
+import Faq from './components/Faq';
 
 // optional, more info: 
 // https://developers.facebook.com/docs/facebook-pixel/pixel-with-ads/conversion-tracking#advanced_match
@@ -30,6 +31,7 @@ class App extends Component {
       <div>
         <Header />
         <Intro />
+        <Faq />
         <Footer />
       </div>
     );
