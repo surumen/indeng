@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 
 import '../assets/styles/style.css';
 
+import Faq from './Faq';
+
 class Intro extends Component {
   render() {
     return (
@@ -38,6 +40,7 @@ class Intro extends Component {
               </div>
             </div>
           </section>
+          <Faq />
         </main>
       </div>
     );
