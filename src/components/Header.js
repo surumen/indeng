@@ -17,18 +17,7 @@ class Header extends Component {
       </div>
       <div className="main-header-right">
         <div className="header-buttons">
-          <ul className="lang-chooser-list lang-chooser-list-desktop" style={{margin: '0 10px 0 0', lineHeight: '26px'}}>
-            <li>
-              <a href="/features" className="lang-chooser">Features</a>
-            </li>
-            <li>
-              <a href="/faq" className="lang-chooser">FAQs</a>
-            </li>
-            <li>
-              <a href="/pricing" className="lang-chooser">Pricing</a>
-            </li>
-          </ul>
-          <a href="/login" className="button button-header button-outline">Login</a>
+          <a href="/recoverpassword" className="button button-header button-outline">Sign Up</a>
         </div>
         <div className="mobile-menu-btn">
           <div className="mobile-menu-btn-inner">

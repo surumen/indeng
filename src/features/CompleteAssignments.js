@@ -5,6 +5,10 @@ import '../assets/styles/devices.min.css';
 
 import icon from "../assets/icon.png";
 
+import xbox from "../assets/icons/xbox.png";
+import playstation from "../assets/icons/playstation.png";
+import nintendo from "../assets/icons/nintendo.png";
+
 class CompleteAssignments extends Component {
   render() {
     return (
@@ -119,21 +123,21 @@ class CompleteAssignments extends Component {
 	        <div className="WV6sm107">
 	          <ul className="_3zhNaZVE" count={5} id="product_messengers">
 	            <li className="_3KgvqEaL">
-	              <a href="/whatsapp" data-messenger="whatsapp" target="_blank" rel="noopener noreferrer"><span>WhatsApp</span></a></li>
+	              <a href="/playstation" target="_blank" rel="noopener noreferrer"><span>Login with Playstation</span></a></li>
 	            <li className="_1Gobno2P">
-	              <a href="/whatsapp" data-messenger="telegram" target="_blank" rel="noopener noreferrer"><span>Messenger</span>
+	              <a href="/xbox" target="_blank" rel="noopener noreferrer"><span>Login with Xbox</span>
 	              </a>
 	            </li>
 	            <li className="_18jkgd0-">
-	              <a href="/viber" data-messenger="viber" target="_blank" rel="noopener noreferrer"><span>Viber</span>
+	              <a href="/nintendo" target="_blank" rel="noopener noreferrer"><span>Nintendo</span>
 	              </a>
 	            </li>
 	            <li className="_2j7oAD62">
-	              <a href="/telegram" data-messenger="vk" target="_blank" rel="noopener noreferrer"><span>Telegram</span>
+	              <a href="/stadia" target="_blank" rel="noopener noreferrer"><span>Google Stadia</span>
 	              </a>
 	            </li>
 	            <li className="_3hn_bJcA">
-	              <a href="/instagram" data-messenger="messenger" target="_blank" rel="noopener noreferrer"><span>Instagram</span>
+	              <a href="/instagram" target="_blank" rel="noopener noreferrer"><span>Twitch</span>
 	              </a>
 	            </li>
 	          </ul>
