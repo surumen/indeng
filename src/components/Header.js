@@ -11,7 +11,7 @@ class Header extends Component {
   <header className="main-header">
     <div className="main-header-content">
       <div className="main-header-left">
-        <a href="index.html" className="header-logo">
+        <a href="/" className="header-logo">
           <img src={logo} alt="grade2play logo" />
         </a>
       </div>

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Auth from '@aws-amplify/auth';
 
 import '../assets/styles/demo.css';
 
