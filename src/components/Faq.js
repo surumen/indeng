@@ -77,6 +77,22 @@ class Faq extends Component {
                             </ol>
                           </div>
                         </li>
+                        <li id="1-3">
+                          <div className="faq-panes-list-item-header">
+                            <span className="faq-panes-list-item-counter" />
+                            <h3>Upload your child's transcripts</h3>
+                            <span className="faq-panes-list-item-status" />
+                          </div>
+                          <div className="faq-panes-list-item-content">
+                            <ol className="ul1">
+                              <li><a href="/login"><strong>Log in</strong></a> your personal profile</li>
+                              <li className="li1">Click on the button <b>Settings</b></li>
+                              <li className="li1">Choose a section <b>Account</b></li>
+                              <li className="li1">Set up your new <b>email</b></li>
+                              <li className="li1">Click on the button <b>Save</b></li>
+                            </ol>
+                          </div>
+                        </li>
                       </ul>
                     </li>
                     <li style={{width: '670px'}} className>
@@ -89,12 +105,8 @@ class Faq extends Component {
                           </div>
                           <div className="faq-panes-list-item-content" style={{display: 'none'}}>
                             <ul>
-                              <li>Sign in your personal profile</li>
-                              <li>Click on the button <strong>Page</strong> – Choose a section <strong>Widget</strong></li>
-                              <li>Choose color</li>
-                              <li>Choose position</li>
-                              <li>Add description</li>
-                              <li>Choose device categories on which you want to show the widget</li>
+                              <li>Select up to <strong>three</strong> rewards</li>
+                              <li>Previous grades not visible</li>
                             </ul>
                           </div>
                         </li>
@@ -106,8 +118,11 @@ class Faq extends Component {
                           </div>
                           <div className="faq-panes-list-item-content" style={{display: 'none'}}>
                             <ul>
-                              <li><strong>Click</strong> on the code to copy it</li>
-                              <li><strong>Paste the code</strong> into your wesbite before <strong>&lt;/body&gt;</strong> tag</li>
+                              <li>Track grades from the beginning</li>
+                              <li>Track <strong>play time</strong> for the selected games</li>
+                              <li>Get rewards in-game based on exam grade</li>
+                              <li><strong>Customize rewards:</strong> set minimum grade, and modify subjects that matter</li>
+                              <li><strong>Paid rewards:</strong> pay extra so the student gets better rewards</li>
                             </ul>
                           </div>
                         </li>
@@ -118,7 +133,13 @@ class Faq extends Component {
                             <span className="faq-panes-list-item-status" />
                           </div>
                           <div className="faq-panes-list-item-content" style={{display: 'none'}}>
-                            <p>Yes! After your first registration you’ll have an opportunity to try <strong>Widget</strong> in <strong>14-Day trial of PRO </strong>tariff</p>
+                            <ul>
+                              <li>Track grades from the beginning</li>
+                              <li>Track <strong>play time</strong> for the selected games</li>
+                              <li>Get rewards in-game based on exam grade</li>
+                              <li><strong>Customize rewards:</strong> set minimum grade, and modify subjects that matter</li>
+                              <li><strong>Paid rewards:</strong> pay extra so the student gets better rewards</li>
+                            </ul>
                           </div>
                         </li>
                       </ul>
