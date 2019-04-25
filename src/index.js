@@ -37,7 +37,7 @@ ReactDOM.render(
         <Route exact path="/" component={App} />
         <Route path="/demo" component={Demo} />
         <Route path="/login" component={Login} />
-        <Route path="/register" component={Register} />
+        <Route path="/register" component={Password} />
         <Route path="/recoverpassword" component={Password} />
         <Route path="/faq" component={Faqs} />
         <Route path="/pricing" component={Login} />

@@ -40,11 +40,6 @@ class Footer extends Component {
 	              <i className="fab fa-twitter" />
 	            </a>
 	          </li>
-	          <li>
-	            <a href="https://t.me/" target="_blank" data-footer-social="Telegram">
-	              <i className="fab fa-telegram" />
-	            </a>
-	          </li>
 	        </ul>
 	      </div>
 	    </div>

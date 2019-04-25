@@ -38,30 +38,48 @@ class Faq extends Component {
                         <li id="1-1">
                           <div className="faq-panes-list-item-header">
                             <span className="faq-panes-list-item-counter" />
-                            <h3>Create a Reward Plan</h3>
+                            <h3>Create an account</h3>
                             <span className="faq-panes-list-item-status" />
                           </div>
                           <div className="faq-panes-list-item-content">
-                            <div><span className="ace-all-bold-hthree"><span ><b>Sign up </b></span><span className=" author-d-4z65zz66zl57z75zyiz66zfr2fz87zwz89znuiz88zlz79zz75zz89zhqpz75ztjz79zgdz122zz84zz89zsz86zz72zpz80zfz87zcz85z0z74zu"><b>with</b></span><span ><b> Facebook</b></span></span></div>
+                            <div><span className="ace-all-bold-hthree"><span ><b>Sign up </b></span><span ><b>with</b></span><span ><b> Facebook</b></span></span></div>
                             <ol className="listtype-number listindent1 list-number1" start={1}>
                               <li><span >Click the button <a href="/login"><strong>Get started</strong></a>&nbsp;</span><span className="author-d">on our website</span></li>
                               <li><span >Press the button </span><span className="highlight author-d"><b>Facebook</b></span></li>
                               <li><span >Choose your Plan</span></li>
                             </ol>
-                            <div><span >If you don’t have email verification on Facebook, </span><span className=" author-d-4z65zz66zl57z75zyiz66zfr2fz87zwz89znuiz88zlz79zz75zz89zhqpz75ztjz79zgdz122zz84zz89zsz86zz72zpz80zfz87zcz85z0z74zu">please, </span><span >write your email</span><span className=" author-d-4z65zz66zl57z75zyiz66zfr2fz87zwz89znuiz88zlz79zz75zz89zhqpz75ztjz79zgdz122zz84zz89zsz86zz72zpz80zfz87zcz85z0z74zu">.</span></div>
-                            <div><span >Also</span> <span >you</span><span className=" author-d-4z65zz66zl57z75zyiz66zfr2fz87zwz89znuiz88zlz79zz75zz89zhqpz75ztjz79zgdz122zz84zz89zsz86zz72zpz80zfz87zcz85z0z74zu"> don’t </span><span >need to create and remember your password from Grade2Play profile.</span></div>
+                            <div><span >If you don’t have email verification on Facebook, </span><span >please, </span><span >write your email</span><span >.</span></div>
+                            <div><span >Also</span> <span >you</span><span > don’t </span><span >need to create and remember your password from Grade2Play profile.</span></div>
                             <div />
-                            <div><span className="ace-all-bold-hthree"><span ><b>Sing up </b></span><span className=" author-d-4z65zz66zl57z75zyiz66zfr2fz87zwz89znuiz88zlz79zz75zz89zhqpz75ztjz79zgdz122zz84zz89zsz86zz72zpz80zfz87zcz85z0z74zu"><b>with</b></span><span ><b> email</b></span></span></div>
+                            <div><span className="ace-all-bold-hthree"><span ><b>Sing up </b></span><span ><b>with</b></span><span ><b> email</b></span></span></div>
                             <ol className="listtype-number listindent1 list-number1" start={1}>
                               <li><span >Click the button <a href="/login"><strong>Get started</strong></a>&nbsp;</span><span >on our website</span></li>
                               <li><span >Fill in all the fields</span> <span className=" author-d h-lparen">(email,</span><span >&nbsp;name, page name, password)</span></li>
                               <li><span >Read and agree with our </span><span className="highlight author-d"><b>Terms of Use</b></span><span > and</span><span className="highlight author-d"><b> Privacy Policy</b></span></li>
-                              <li><span className=" author-d-4z65zz66zl57z75zyiz66zfr2fz87zwz89znuiz88zlz79zz75zz89zhqpz75ztjz79zgdz122zz84zz89zsz86zz72zpz80zfz87zcz85z0z74zu">Click on the button </span><span className="highlight author-d-4z65zz66zl57z75zyiz66zfr2fz87zwz89znuiz88zlz79zz75zz89zhqpz75ztjz79zgdz122zz84zz89zsz86zz72zpz80zfz87zcz85z0z74zu"><b>Continue</b></span></li>
+                              <li><span >Click on the button </span><span className="highlight "><b>Continue</b></span></li>
                               <li><span >Choose your Plan</span></li>
                             </ol>
                           </div>
                         </li>
                         <li id="1-2">
+                          <div className="faq-panes-list-item-header">
+                            <span className="faq-panes-list-item-counter" />
+                            <h3>Create a Reward Plan</h3>
+                            <span className="faq-panes-list-item-status" />
+                          </div>
+                          <div className="faq-panes-list-item-content">
+                            <div><span className="ace-all-bold-hthree"><span ><b>Sign up </b></span><span ><b>with</b></span><span ><b> Facebook</b></span></span></div>
+                            <ol className="listtype-number listindent1 list-number1" start={1}>
+                              <li><span >Click the button <a href="/login"><strong>Get started</strong></a>&nbsp;</span><span className="author-d">on our website</span></li>
+                              <li><span >Press the button </span><span className="highlight author-d"><b>Facebook</b></span></li>
+                              <li><span >Choose your Plan</span></li>
+                            </ol>
+                            <div><span >If you don’t have email verification on Facebook, </span><span >please, </span><span >write your email</span><span >.</span></div>
+                            <div><span >Also</span> <span >you</span><span > don’t </span><span >need to create and remember your password from Grade2Play profile.</span></div>
+                            <div />
+                          </div>
+                        </li>
+                        <li id="1-3">
                           <div className="faq-panes-list-item-header">
                             <span className="faq-panes-list-item-counter" />
                             <h3>Select in-school goals for your child</h3>
@@ -72,12 +90,12 @@ class Faq extends Component {
                               <li><a href="/login"><strong>Log in</strong></a> your personal profile</li>
                               <li className="li1">Click on the button <b>Settings</b></li>
                               <li className="li1">Choose a section <b>Account</b></li>
-                              <li className="li1">Set up your new <b>email</b></li>
+                              <li className="li1">Sellect <b>school goals</b> from the list</li>
                               <li className="li1">Click on the button <b>Save</b></li>
                             </ol>
                           </div>
                         </li>
-                        <li id="1-3">
+                        <li id="1-4">
                           <div className="faq-panes-list-item-header">
                             <span className="faq-panes-list-item-counter" />
                             <h3>Upload your child's transcripts</h3>
@@ -88,9 +106,19 @@ class Faq extends Component {
                               <li><a href="/login"><strong>Log in</strong></a> your personal profile</li>
                               <li className="li1">Click on the button <b>Settings</b></li>
                               <li className="li1">Choose a section <b>Account</b></li>
-                              <li className="li1">Set up your new <b>email</b></li>
-                              <li className="li1">Click on the button <b>Save</b></li>
+                              <li className="li1">Set up your new <b>record</b></li>
+                              <li className="li1">Click on the button <b>Upload transcript</b></li>
                             </ol>
+                          </div>
+                        </li>
+                        <li id="1-4">
+                          <div className="faq-panes-list-item-header">
+                            <span className="faq-panes-list-item-counter" />
+                            <h3>Automated rewards</h3>
+                            <span className="faq-panes-list-item-status" />
+                          </div>
+                          <div className="faq-panes-list-item-content">
+                            <div><span >If the student meets the set goals, our system automatically buys the in-game rewards for them</span><span >.</span></div>
                           </div>
                         </li>
                       </ul>

@@ -17,7 +17,7 @@ class Header extends Component {
       </div>
       <div className="main-header-right">
         <div className="header-buttons">
-          <a href="/recoverpassword" className="button button-header button-outline">Sign Up</a>
+          <a href="/register" className="button button-header button-outline">Sign Up</a>
         </div>
         <div className="mobile-menu-btn">
           <div className="mobile-menu-btn-inner">
@@ -29,7 +29,6 @@ class Header extends Component {
       </div>
     </div>
   </header>
-  <a href="/inbox">Inbox</a>
 </div>
     );
   }
