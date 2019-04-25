@@ -9,6 +9,10 @@ body {
     margin: 0
 }
 
+iframe.html.body.player.html5-video-player.ytp-embed.ytp-title-enable-channel-logo.unstarted-mode.ytp-hide-controls.ytp-chrome-top.ytp-share-button-visible.ytp-show-share-title.ytp-show-cards-title.ytp-title {
+    display: none !important;
+}
+
 article,
 aside,
 footer,
