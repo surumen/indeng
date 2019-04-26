@@ -15,6 +15,7 @@ class Faq extends Component {
       <div className="page-faq">
         <div className="common-content">
           <div className="page-faq-content">
+            <h1 className="sectiontitle">Frequently Asked Questions</h1>
             <article className="page-faq-container">
               <div className="faq-container">
                 <div className="faq-container-left">

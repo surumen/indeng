@@ -17,7 +17,7 @@ class Header extends Component {
       </div>
       <div className="main-header-right">
         <div className="header-buttons">
-          <a href="/register" className="button button-header button-outline">Sign Up</a>
+          <a href="/register" className="button button-header button-outline">Get early access</a>
         </div>
         <div className="mobile-menu-btn">
           <div className="mobile-menu-btn-inner">

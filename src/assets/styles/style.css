@@ -3180,7 +3180,14 @@ a.plan-card-button-blue:hover {
     margin: 0 30px
 }
 
-.page-faq {
+.sectiontitle {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+
+.page-faq,
+.section-page-pricing {
     padding: 50px 0;
     overflow: hidden;
     border-top: 1px solid rgba(31, 45, 61, .1);
