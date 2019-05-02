@@ -34,11 +34,7 @@ class Footer extends Component {
 	      </div>
 	    </div>
 	  </footer>
-	  <div className="cookie-message" id="cookie-message">
-	    <span>We use cookies</span>
-	    <a href="/privacy">Details</a>
-	    <div className="close-cookie" id="close-cookie" />
-	  </div>
+	  
 	</div>
     );
   }
