@@ -11,13 +11,13 @@ class Footer extends Component {
 	      <nav className="main-footer-content-left">
 	        <ul className="footer-nav-list">
 	          <li>
-	            <h6>Company</h6>
+	            <h6>&copy; 2019 Grade2Play Inc.</h6>
 	            <ul className="footer-menu-list">
 	              <li>
-	                <a href="/terms">Terms of use</a>
+	                <a href="#">Terms of use</a>
 	              </li>
 	              <li>
-	                <a href="/privacy">Privacy policy</a>
+	                <a href="#">Privacy policy</a>
 	              </li>
 	            </ul>
 	          </li>
@@ -26,18 +26,8 @@ class Footer extends Component {
 	      <div className="main-footer-content-right">
 	        <ul className="footer-socials-list">
 	          <li>
-	            <a href="https://www.facebook.com/" target="_blank" data-footer-social="Facebook">
+	            <a href="https://www.facebook.com/grade2play" target="_blank" data-footer-social="Facebook">
 	              <i className="fab fa-facebook" />
-	            </a>
-	          </li>
-	          <li>
-	            <a href="https://www.instagram.com/" target="_blank" data-footer-social="Instagram">
-	              <i className="fab fa-instagram" />
-	            </a>
-	          </li>
-	          <li>
-	            <a href="https://twitter.com/" target="_blank" data-footer-social="Twitter">
-	              <i className="fab fa-twitter" />
 	            </a>
 	          </li>
 	        </ul>
