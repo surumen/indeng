@@ -142,23 +142,7 @@ class Faq extends Component {
                         <li id="3-2">
                           <div className="faq-panes-list-item-header">
                             <span className="faq-panes-list-item-counter" />
-                            <h3>&#x00024; 40 per month</h3>
-                            <span className="faq-panes-list-item-status" />
-                          </div>
-                          <div className="faq-panes-list-item-content" style={{display: 'none'}}>
-                            <ul>
-                              <li>Track grades from the beginning</li>
-                              <li>Track <strong>play time</strong> for the selected games</li>
-                              <li>Get rewards in-game based on exam grade</li>
-                              <li><strong>Customize rewards:</strong> set minimum grade, and modify subjects that matter</li>
-                              <li><strong>Paid rewards:</strong> pay extra so the student gets better rewards</li>
-                            </ul>
-                          </div>
-                        </li>
-                        <li id="3-3">
-                          <div className="faq-panes-list-item-header">
-                            <span className="faq-panes-list-item-counter" />
-                            <h3>&#x00024; 300 per academic year</h3>
+                            <h3>&#x00024;25/month or &#x00024;199/year</h3>
                             <span className="faq-panes-list-item-status" />
                           </div>
                           <div className="faq-panes-list-item-content" style={{display: 'none'}}>

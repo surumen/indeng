@@ -40,8 +40,8 @@ class Pricing extends Component {
 		          <div className="plan-header">
 		            <h2><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>PLUS</font></font></h2>
 		            <div className="plan-price-block">
-		              <span className="plan-price"><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>$ 40 </font></font></span>
-		              <span className="plan-price-description"><br /><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>per month</font></font></span>
+		              <span className="plan-price"><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>$25 per month</font></font></span>
+		              <span className="plan-price-description"><br /><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>or $199 per academic year</font></font></span>
 		            </div>
 		          </div>
 		          <div className="plan-content-card">
@@ -67,7 +67,7 @@ class Pricing extends Component {
 		          <div className="plan-header">
 		            <h2><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>PRO</font></font></h2>
 		            <div className="plan-price-block">
-		              <span className="plan-price"><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>$ 300 </font></font></span>
+		              <span className="plan-price"><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>$199 </font></font></span>
 		              <span className="plan-price-description"><font style={{verticalAlign: 'inherit'}}></font><br /><font style={{verticalAlign: 'inherit'}}><font style={{verticalAlign: 'inherit'}}>per academic year</font></font></span>
 		            </div>
 		          </div>
